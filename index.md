@@ -2,7 +2,7 @@
 layout: default 
 ---
 
-**Enrico Minto Spanier**
+## **Enrico Minto Spanier**
 
 ## Sobre
 
