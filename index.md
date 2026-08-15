@@ -7,4 +7,4 @@ Esse Blog irá refletir minha caminhada pelo material de computação visual pro
 
 
 ## Posts
-[Post 1 - Impressão x Realidade](Post_1.md) (15/08/2026)
+[Impressão x Realidade](Post_1.md) (15/08/2026)
