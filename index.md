@@ -2,8 +2,7 @@
 layout: default 
 ---
 
-# Computação Visual (2026-02)
-Enrico Minto Spanier
+**Enrico Minto Spanier**
 
 ## Sobre
 

@@ -21,3 +21,8 @@ body {
 }
 .page-header .btn { display: none !important; }
 .page-header { background: linear-gradient(120deg, #7f0000, #b44e09);} 
+.main-content a { 
+  font-size: 1.1em;
+  font-weight: 700; 
+} 
+.page-header .project-name { font-weight: 800; }
