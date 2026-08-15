@@ -1,9 +1,13 @@
+--- 
+layout: default 
+---
+
 # Computação Visual (2026-02)
 Enrico Minto Spanier
 
 ## Sobre
 
-Esse Blog irá refletir minha caminhada pelo material de computação visual proposto pelo professor André Kishimoto
+
 
 
 ## Posts

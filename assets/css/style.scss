@@ -1,5 +1,5 @@
 ---
---- 
+---
 @import "{{ site.theme }}";
 body { 
   background-color: #0d1117;
@@ -17,6 +17,6 @@ body {
 } 
 .main-content blockquote {
   color: #8b949e; 
-  border-left: 
-  3px solid #30363d; 
+  border-left: 3px solid #30363d; 
 }
+.page-header .btn { display: none !important; }
