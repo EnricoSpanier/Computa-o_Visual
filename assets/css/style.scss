@@ -1,0 +1,22 @@
+---
+--- 
+@import "{{ site.theme }}";
+body { 
+  background-color: #0d1117;
+  color: #c9d1d9; 
+} 
+.main-content h1, 
+.main-content h2, 
+.main-content h3, 
+.main-content h4 { color: #ff7043; } 
+.main-content a { color: #ff8a65; } 
+.main-content pre, 
+.main-content code { 
+  background-color: #161b22; 
+  color: #c9d1d9; 
+} 
+.main-content blockquote {
+  color: #8b949e; 
+  border-left: 
+  3px solid #30363d; 
+}
