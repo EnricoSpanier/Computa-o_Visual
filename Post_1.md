@@ -16,6 +16,7 @@ O Professor Kishimoto em sala explicou que não será nada parecido com que tinh
 ## Como Vejo Hoje
 
 Acredito que com o andar da diciplina conseguirei fazer uma maior distinção dos conteudos na minha cabeça. Acredito que será uma matéria interessante e proveitosa mesmo pra mim sendo uma disciplina distante da parte da computação que gosto que é o back-end, mas quem sabe não estou enganado? Somente o tempo irá dizer.
+<br><br>
 
 ---
 [Pagina inicial](index.md)
