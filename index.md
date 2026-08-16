@@ -11,7 +11,9 @@ title: Computação Visual (2026-02)
 
 Este blog irá refletir minha passagem pelo material de Computação Visual proposto pelo professor André Kishimoto. Vindo de uma preferência por back-end, uso esse espaço pra registrar como uma área que parecia distante do meu interesse vai se revelando ao longo do semestre.
 <br>
+
 ---
+
 ## Posts
 <span class="post-date">15/08/2026</span><br>
 [Impressão x Realidade](Post_1.md) 
